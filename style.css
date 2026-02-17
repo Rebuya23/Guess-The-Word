@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url('backgroud.jpg.jpg'); 
+    background-size: cover;     
+    background-position: top; 
+    background-repeat: no-repeat;
+    color: #000;                 
+    margin-top: 40px;
+}
+
+input {
+    padding: 8px;
+    width: 220px;
+}
+
+button {
+    padding: 8px 15px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+#message {
+    font-weight: bold;
+    margin-top: 15px;
+}
